@@ -14,3 +14,5 @@ All the projects and code I developed at 42Vienna -> Piscine.
 | C06 | 100% :heavy_check_mark: |
 | C07 | 60% :heavy_check_mark: |
 | C08 | 100% :heavy_check_mark: |
+#### DISCLAIMER
+DON'T COPY! GET INSPIRED AND LEARN!
